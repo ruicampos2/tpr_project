@@ -1,3 +1,12 @@
+#RUI
+#How to Run
+#python -m venv venv
+#venv\Scripts\activate.bat
+#pip install -r requirements.txt
+#python app.py
+
+
+
 from datetime import timedelta
 from flask import Flask,Blueprint, render_template, session, redirect, request, url_for, flash, send_from_directory
 import sqlite3
@@ -5,10 +14,6 @@ import os
 from flask_session import Session
 import signal
 import sys   
-#python -m venv venv
-#venv\Scripts\activate.bat
-#
-#  
 
 app = Flask(__name__)
 
