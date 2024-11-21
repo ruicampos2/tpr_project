@@ -1,21 +1,3 @@
-## Vulnerabilites used
-
-[CWE-79](https://cwe.mitre.org/data/definitions/79.html)
-
-[CWE-89](https://cwe.mitre.org/data/definitions/89.html)
-
-[CWE-209](https://cwe.mitre.org/data/definitions/209.html)
-
-[CWE-256](https://cwe.mitre.org/data/definitions/256.html)
-
-[CWE-284](https://cwe.mitre.org/data/definitions/284.html)
-
-[CWE-640](https://cwe.mitre.org/data/definitions/640.html)
-
-[CWE-756](https://cwe.mitre.org/data/definitions/756.html)
-
-[CWE-613](https://cwe.mitre.org/data/definitions/613.html)
-
 ## How to run
 1. Create a virtual enviorment:
 ```bash
@@ -45,4 +27,6 @@ python3 app_sec.py
 
 ## Authors
 João Ferreira, 103625
+
+Rui Campos, 103709
 
